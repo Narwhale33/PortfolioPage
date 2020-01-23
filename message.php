@@ -1,8 +1,8 @@
 <?php
 
 // Settings 
-$recipient = 'luganex6@gmail.com'; // Replace it with your e-mail address
-$fromMail = 'luganex6@gmail.com'; // Replace it with the email address the generated message will be send from
+$recipient = 'JoshTaylorDev@protonmail.com'; // Replace it with your e-mail address
+$fromMail = 'JoshTaylorDev@protonmail.com'; // Replace it with the email address the generated message will be send from
 $subject = 'Contact Form NEW MESSAGE FROM SENDER- domain.com'; // Replace it with subject that you want to see when you receive a message
 $responses = [
     'invalid' => '', // When a data is invalid
